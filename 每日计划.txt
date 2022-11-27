@@ -1,0 +1,26 @@
+11.27日（周末）
+
+1、争取把carsim controller与carsim配置问题（包含carsim安装许可证报错问题）解决.
+  遇到的问题：由于所有的电脑系统都是carsim和carsim controllerr配置后的版本，所以特地找了一台旧版主机重装
+了纯净版window10系统，然后直接重装carsim想着试一遍，但是装好之后（不知道是安装步骤哪里出了问题还是怎
+么了，就是由于license问题（具体报错carsim  flexible licensing error:-8,523）
+
+  解决与否：  已解决
+
+  解决方法：我卸掉carsim后，重新安装，把硬盘F:\software\个人\Carsim\CarSim2022\carsim_2022_win_crack
+到这个路径下，ctrl+A选中，ctrl+c复制全部文件，然后到自己carsim安装路径下替换掉原有文件。之后就成功安装；
+相关配置方法见报告：
+
+  没解决遇到了什么问题：
+
+
+
+2、git与本地连接搭建好.
+  解决与否：
+  没解决遇到了什么问题：
+
+
+
+
+
+3、争取梳理一下tsmaster的问题和现阶段对于Tsmaster掌握情况.
